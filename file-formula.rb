@@ -1,9 +1,9 @@
 # "File" is a reserved class name
 class FileFormula < Formula
   homepage "http://www.darwinsys.com/file/"
-  url "ftp://ftp.astron.com/pub/file/file-5.23.tar.gz"
-  mirror "https://fossies.org/linux/misc/file-5.23.tar.gz"
-  sha256 "2c8ab3ff143e2cdfb5ecee381752f80a79e0b4cfe9ca4cc6e1c3e5ec15e6157c"
+  url "ftp://ftp.astron.com/pub/file/file-5.24.tar.gz"
+  mirror "https://fossies.org/linux/misc/file-5.24.tar.gz"
+  sha256 "802cb3de2e49e88ef97cdcb52cd507a0f25458112752e398445cea102bc750ce"
 
   head "https://github.com/file/file.git"
 
