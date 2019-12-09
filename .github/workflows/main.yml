@@ -12,7 +12,7 @@ jobs:
     - uses: TG908/fork-sync@v1.1.4
       with:
         # Owner of the forked repository
-        owner: tree-s
+        owner: mistydemeo
         # Token for the github API
         github_token: ${{ secrets.GITHUB_TOKEN }}
         # Branch to track
